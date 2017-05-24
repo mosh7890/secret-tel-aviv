@@ -1,32 +1,13 @@
 body {
-  margin: 0;
-  padding: 0;
+  background-color:#DDD;
+}
+nav {
+  background-color: rgb(51, 51, 51);
+}
+
+li:first-child { 
+  color: green; 
+}
+.hero-image {
   width: 100%;
-}
-
-
-a:visited {
-  color: inherit;
-  font-style: inherit;
-  text-decoration: none;
-}
-
-a:link {
-  color: inherit;
-  text-decoration: none;
-  font-style: inherit;
-}
-
-p {
-  margin: 0;
-  padding: 0;
-}
-
-li {
-  list-style: none;
-}
-
-ul {
-  margin: 0;
-  padding: 0;
 }
